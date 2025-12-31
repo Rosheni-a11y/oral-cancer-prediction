@@ -103,6 +103,7 @@ Given the medical context and class imbalance, the following metrics were priori
 
 ## Project Structure
 
+```plaintext
 oral-cancer-prediction/
 │
 ├── data/
@@ -129,7 +130,7 @@ oral-cancer-prediction/
 ├── requirements.txt
 └── README.md
 
-
+```
 
 ---
 
