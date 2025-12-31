@@ -106,27 +106,26 @@ Given the medical context and class imbalance, the following metrics were priori
 oral-cancer-prediction/
 │
 ├── data/
-│   ├── raw/
-│   
+│ └── raw/
 │
 ├── notebooks/
-│   ├──Preprocessed_Pipeline.ipynb
-│   ├──Logistic_Regression.ipynb
-│   ├──KNN.ipynb
-|   ├──Random_Forest.ipynb
-|   ├──Decision_Tree.ipynb
-|   ├──Support_Vector_Machine.ipynb
-|   ├──XG_Boost.ipynb
-|
-|
+│ ├── Preprocessed_Pipeline.ipynb
+│ ├── Logistic_Regression.ipynb
+│ ├── KNN.ipynb
+│ ├── Random_Forest.ipynb
+│ ├── Decision_Tree.ipynb
+│ ├── Support_Vector_Machine.ipynb
+│ └── XG_Boost.ipynb
+│
 ├── results/
-│   ├── EDA_visualizations/
-│   └── outputs/
+│ └── EDA_visualizations/
+│
+├── outputs/
 │
 ├── report/
-│   └── final_report.pdf
-│   └── Final Model Selection.pdf
-|
+│ ├── final_report.pdf
+│ └── Final_Model_Selection.pdf
+│
 ├── requirements.txt
 └── README.md
 
