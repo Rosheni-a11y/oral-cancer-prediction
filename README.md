@@ -120,15 +120,16 @@ oral-cancer-prediction/
 │
 ├── results/
 │ └── EDA_visualizations/
-│
-├── outputs/
+│ └── Preprocessed_Dataset/
+|
 │
 ├── report/
 │ ├── final_report.pdf
 │ └── Final_Model_Selection.pdf
 │
-├── requirements.txt
-└── README.md
+|
+└── requirements.txt
+
 
 ```
 
