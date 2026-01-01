@@ -128,8 +128,8 @@ oral-cancer-prediction/
 │ └── Final_Model_Selection.pdf
 │
 |
-└── requirements.txt
-
+|── requirements.txt
+└──README.md
 
 ```
 
